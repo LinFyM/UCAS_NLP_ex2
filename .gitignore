@@ -1,0 +1,17 @@
+Annex_02_PKU_Chinese_Corpus199801/ChineseCorpus199801.txt
+fnn_ovfitting_embedding_layer.pth
+fnn_tested_embedding_layer.pth
+lstm_embedding_layer.pth
+rnn_embedding_layer.pth
+rnn_ovfitting_embedding_layer.pth
+rnn_tested_embedding_layer.pth
+lstm_ovfitting_embedding_layer.pth
+RNN/__pycache__/RNN_Model.cpython-310.pyc
+RNN/__pycache__/RNN_pre_process.cpython-310.pyc
+LSTM/__pycache__/LSTM_Model.cpython-310.pyc
+LSTM/__pycache__/LSTM_pre_process.cpython-310.pyc
+LSTM/__pycache__/pre_process.cpython-310.pyc
+.gitignore
+FNN/__pycache__/FNN_Model.cpython-310.pyc
+FNN/__pycache__/FNN_pre_process.cpython-310.pyc
+FNN/__pycache__/pre_process.cpython-310.pyc
